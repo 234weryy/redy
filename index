@@ -157,3 +157,71 @@
 
 </body>
 </html>
+
+
+
+
+
+
+
+
+
+
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet" href="style.css">
+    <script src="script.js"></script>
+</head>
+<body background="Group 25.png" width="100%" hight="100%">
+    
+<div class="all">                   <!--один загальний блок-->
+    <div class="card">
+        <div class="card-inner">
+              <div class="card-front">
+                <p>Front Side</p>
+              </div>
+              <div class="card-back">
+                <p>Back Side</p>
+              </div>
+        </div>
+        <div class="card">
+            <div class="card-inner">
+                  <div class="card-front">
+                    <p>Front Side</p>
+                  </div>
+                  <div class="card-back">
+                    <p>Back Side</p>
+                  </div>
+            </div>
+            <div class="card">
+                <div class="card-inner">
+                      <div class="card-front">
+                        <p>Front Side</p>
+                      </div>
+                      <div class="card-back">
+                        <p>Back Side</p>
+                      </div>
+                </div>
+               <div class="card">
+            <div class="card-inner">
+                  <div class="card-front">
+                    <p>Front Side</p>
+                  </div>
+                  <div class="card-back">
+                    <p>Back Side</p>
+                  </div>
+            </div>
+                
+  </div>
+  
+    
+</div>
+</div>
+
+</body>
+</html>
