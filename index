@@ -1,5 +1,4 @@
 # redy
-
 <!DOCTYPE html>
 <html lang="en">
 <head>
@@ -9,12 +8,152 @@
     <link rel="stylesheet" href="style.css">
     <script src="script.js"></script>
 </head>
-<body background="image/image.png" width="100%" hight="100%">
+<body background="Group 25.png" width="100%" hight="100%">
     
-<div class="cart">   
+<div class="all">                   <!--один загальний блок-->
+    <div class="item">              <!--окремі блоки -->
+            <div class="card-front">
+                <img src="" alt="">
+            </div>
+            <div class="card-back">
+                <p>Back Side</p>
+            </div>
+    </div>
+    <div class="item">              <!--окремі блоки -->
+        <div class="card-front">
+            <img src="" alt="">
+        </div>
+        <div class="card-back">
+            <p>Back Side</p>
+        </div>
+    </div><div class="item">              <!--окремі блоки -->
+        <div class="card-front">
+            <img src="" alt="">
+        </div>
+        <div class="card-back">
+            <p>Back Side</p>
+        </div>
+    </div><div class="item">              <!--окремі блоки -->
+        <div class="card-front">
+            <img src="" alt="">
+        </div>
+        <div class="card-back">
+            <p>Back Side</p>
+        </div>
+    </div><div class="item">              <!--окремі блоки -->
+        <div class="card-front">
+            <img src="" alt="">
+        </div>
+        <div class="card-back">
+            <p>Back Side</p>
+        </div>
+    </div><div class="item">              <!--окремі блоки -->
+        <div class="card-front">
+            <img src="" alt="">
+        </div>
+        <div class="card-back">
+            <p>Back Side</p>
+        </div>
+    </div><div class="item">              <!--окремі блоки -->
+        <div class="card-front">
+            <img src="" alt="">
+        </div>
+        <div class="card-back">
+            <p>Back Side</p>
+        </div>
+    </div><div class="item">              <!--окремі блоки -->
+        <div class="card-front">
+            <img src="" alt="">
+        </div>
+        <div class="card-back">
+            <p>Back Side</p>
+        </div>
+    </div><div class="item">              <!--окремі блоки -->
+        <div class="card-front">
+            <img src="" alt="">
+        </div>
+        <div class="card-back">
+            <p>Back Side</p>
+        </div>
+    </div><div class="item">              <!--окремі блоки -->
+        <div class="card-front">
+            <img src="" alt="">
+        </div>
+        <div class="card-back">
+            <p>Back Side</p>
+        </div>
+    </div><div class="item">              <!--окремі блоки -->
+        <div class="card-front">
+            <img src="" alt="">
+        </div>
+        <div class="card-back">
+            <p>Back Side</p>
+        </div>
+    </div><div class="item">              <!--окремі блоки -->
+        <div class="card-front">
+            <img src="" alt="">
+        </div>
+        <div class="card-back">
+            <p>Back Side</p>
+        </div>
+    </div><div class="item">              <!--окремі блоки -->
+        <div class="card-front">
+            <img src="" alt="">
+        </div>
+        <div class="card-back">
+            <p>Back Side</p>
+        </div>
+    </div><div class="item">              <!--окремі блоки -->
+        <div class="card-front">
+            <img src="" alt="">
+        </div>
+        <div class="card-back">
+            <p>Back Side</p>
+        </div>
+    </div><div class="item">              <!--окремі блоки -->
+        <div class="card-front">
+            <img src="" alt="">
+        </div>
+        <div class="card-back">
+            <p>Back Side</p>
+        </div>
+    </div><div class="item">              <!--окремі блоки -->
+        <div class="card-front">
+            <img src="" alt="">
+        </div>
+        <div class="card-back">
+            <p>Back Side</p>
+        </div>
+    </div><div class="item">              <!--окремі блоки -->
+        <div class="card-front">
+            <img src="" alt="">
+        </div>
+        <div class="card-back">
+            <p>Back Side</p>
+        </div>
+    </div><div class="item">              <!--окремі блоки -->
+        <div class="card-front">
+            <img src="" alt="">
+        </div>
+        <div class="card-back">
+            <p>Back Side</p>
+        </div>
+    </div><div class="item">              <!--окремі блоки -->
+        <div class="card-front">
+            <img src="" alt="">
+        </div>
+        <div class="card-back">
+            <p>Back Side</p>
+        </div>
+    </div><div class="item">              <!--окремі блоки -->
+        <div class="card-front">
+            <img src="" alt="">
+        </div>
+        <div class="card-back">
+            <p>Back Side</p>
+        </div>
 </div>
+</div>
+
 </body>
 </html>
-
-
-
