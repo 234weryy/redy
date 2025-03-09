@@ -1,4 +1,4 @@
-# redy
+#redy
 
 <!DOCTYPE html>
 <html lang="en">
@@ -15,7 +15,7 @@
     <div class="card">              <!--окремі блоки-->
         <div class="card-inner">
               <div class="card-front">
-                <p>Front Side</p>
+                <div class="c"><img src="3.png" alt="Front Side"></div>
               </div>
               <div class="card-back">
                 <p>Back Side</p>
@@ -25,7 +25,7 @@
     <div class="card">            
         <div class="card-inner">
               <div class="card-front">
-                <p>Front Side</p>
+                <img src="" alt="Front Side">
               </div>
               <div class="card-back">
                 <p>Back Side</p>
@@ -35,7 +35,7 @@
     <div class="card">            
         <div class="card-inner">
               <div class="card-front">
-                <p>Front Side</p>
+                <img src="" alt="Front Side">
               </div>
               <div class="card-back">
                 <p>Back Side</p>
@@ -45,7 +45,7 @@
     <div class="card">            
         <div class="card-inner">
               <div class="card-front">
-                <p>Front Side</p>
+                <img src="" alt="Front Side">
               </div>
               <div class="card-back">
                 <p>Back Side</p>
@@ -55,7 +55,7 @@
     <div class="card">            
         <div class="card-inner">
               <div class="card-front">
-                <p>Front Side</p>
+                <img src="" alt="Front Side">
               </div>
               <div class="card-back">
                 <p>Back Side</p>
@@ -66,7 +66,7 @@
   <div class="card">            
     <div class="card-inner">
           <div class="card-front">
-            <p>Front Side</p>
+            <img src="" alt="Front Side">
           </div>
           <div class="card-back">
             <p>Back Side</p>
@@ -76,7 +76,7 @@
     <div class="card">            
         <div class="card-inner">
               <div class="card-front">
-                <p>Front Side</p>
+                <img src="" alt="Front Side">
               </div>
               <div class="card-back">
                 <p>Back Side</p>
@@ -86,7 +86,7 @@
     <div class="card">            
         <div class="card-inner">
               <div class="card-front">
-                <p>Front Side</p>
+                <img src="" alt="Front Side">
               </div>
               <div class="card-back">
                 <p>Back Side</p>
@@ -96,7 +96,7 @@
     <div class="card">            
         <div class="card-inner">
               <div class="card-front">
-                <p>Front Side</p>
+                <img src="" alt="Front Side">
               </div>
               <div class="card-back">
                 <p>Back Side</p>
@@ -106,7 +106,7 @@
     <div class="card">            
         <div class="card-inner">
               <div class="card-front">
-                <p>Front Side</p>
+                <img src="" alt="Front Side">
               </div>
               <div class="card-back">
                 <p>Back Side</p>
@@ -117,7 +117,7 @@
   <div class="card">            
     <div class="card-inner">
           <div class="card-front">
-            <p>Front Side</p>
+            <img src="" alt="Front Side">
           </div>
           <div class="card-back">
             <p>Back Side</p>
@@ -127,7 +127,7 @@
     <div class="card">            
         <div class="card-inner">
               <div class="card-front">
-                <p>Front Side</p>
+                <img src="" alt="Front Side">
               </div>
               <div class="card-back">
                 <p>Back Side</p>
@@ -137,7 +137,7 @@
     <div class="card">            
         <div class="card-inner">
               <div class="card-front">
-                <p>Front Side</p>
+                <img src="" alt="Front Side">
               </div>
               <div class="card-back">
                 <p>Back Side</p>
@@ -147,7 +147,7 @@
     <div class="card">            
         <div class="card-inner">
               <div class="card-front">
-                <p>Front Side</p>
+                <img src="" alt="Front Side">
               </div>
               <div class="card-back">
                 <p>Back Side</p>
@@ -157,7 +157,7 @@
     <div class="card">            
         <div class="card-inner">
               <div class="card-front">
-                <p>Front Side</p>
+                <img src="" alt="Front Side">
               </div>
               <div class="card-back">
                 <p>Back Side</p>
@@ -168,7 +168,7 @@
   <div class="card">            
     <div class="card-inner">
           <div class="card-front">
-            <p>Front Side</p>
+            <img src="" alt="Front Side">
           </div>
           <div class="card-back">
             <p>Back Side</p>
@@ -178,7 +178,7 @@
     <div class="card">            
         <div class="card-inner">
               <div class="card-front">
-                <p>Front Side</p>
+                <img src="" alt="Front Side">
               </div>
               <div class="card-back">
                 <p>Back Side</p>
@@ -188,7 +188,7 @@
     <div class="card">            
         <div class="card-inner">
               <div class="card-front">
-                <p>Front Side</p>
+                <img src="" alt="Front Side">
               </div>
               <div class="card-back">
                 <p>Back Side</p>
@@ -198,7 +198,7 @@
     <div class="card">            
         <div class="card-inner">
               <div class="card-front">
-                <p>Front Side</p>
+                <img src="" alt="Front Side">
               </div>
               <div class="card-back">
                 <p>Back Side</p>
@@ -208,7 +208,7 @@
     <div class="card">            
         <div class="card-inner">
               <div class="card-front">
-                <p>Front Side</p>
+                <img src="" alt="Front Side">
               </div>
               <div class="card-back">
                 <p>Back Side</p>
